@@ -3,7 +3,7 @@ Simplificando a Implantação de Aplicativos
 
 # Projeto EBOOK Gerado por I.A.s
 
-ℹ️ NOTE: Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da DIO.
+ℹ️ NOTE: Este é o repositório desenvolvido durante o curso no qual fui ALUNO na plataforma da DIO.
 
 Projeto com o objetivo de gerar um ebook digital sobre Docker com as facilidades das ferramentas de IA.
 
