@@ -1,5 +1,3 @@
-C:\Users\axnva\OneDrive - Dedalus S.p.A\Documentos\GitHub\Introducao-Docker\docker.png
-
 # Introdução ao Docker: Simplificando a Implantação de Aplicativos
 
 Se você é um desenvolvedor de software, provavelmente já ouviu falar sobre Docker. Mas o que é exatamente o Docker e por que é tão importante no mundo da programação? Neste artigo, vamos mergulhar no universo do Docker e descobrir como ele pode simplificar a vida dos desenvolvedores.
