@@ -39,8 +39,8 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 Paulo Cabral
 
-- [GitHub](https://github.com/seuusuario)
-- [LinkedIn](https://linkedin.com/in/seuperfil)
-- [Instagram](https://instagram.com/seuperfil)
+- [GitHub](https://github.com/pscabral)
+- [LinkedIn](https://linkedin.com/in/pscabral)
+- [Instagram](https://instagram.com/pscabral)
 
 ⌨️ com 💜 por Paulo Cabral
