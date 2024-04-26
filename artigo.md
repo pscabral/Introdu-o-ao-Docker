@@ -25,3 +25,5 @@ Crie seu próprio contêiner: Uma vez que você se sinta confortável com os con
 O Docker é uma ferramenta poderosa que simplifica o processo de desenvolvimento, teste e implantação de aplicativos. Ao empacotar seus aplicativos em contêineres, você pode garantir consistência, isolamento e eficiência em todo o ciclo de vida do desenvolvimento de software. Então, da próxima vez que você estiver construindo e implantando um aplicativo, lembre-se do Docker e como ele pode facilitar sua vida como desenvolvedor.
 
 # Pronto para mergulhar no mundo do Docker? Instale-o hoje mesmo e comece a experimentar! 🐳
+
+![Logo do Docker](docker_logo.png)
