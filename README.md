@@ -40,7 +40,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 Paulo Cabral
 
 - [GitHub](https://github.com/pscabral)
-- [LinkedIn](https://linkedin.com/in/pscabral)
+- [LinkedIn](https://linkedin.com/in/paulo--cabral)
 - [Instagram](https://instagram.com/pscabral)
 
 ⌨️ com 💜 por Paulo Cabral
