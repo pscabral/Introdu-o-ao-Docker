@@ -26,4 +26,4 @@ O Docker é uma ferramenta poderosa que simplifica o processo de desenvolvimento
 
 # Pronto para mergulhar no mundo do Docker? Instale-o hoje mesmo e comece a experimentar! 🐳
 
-![Logo do Docker](docker_logo.png)
+![Logo do Docker](docker_architecture.png)
